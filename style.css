@@ -23,6 +23,7 @@ body {
     background-color: white;
     font-family: var(--fonte-padrao);
     
+    
 }
 
 header {
@@ -47,6 +48,8 @@ header h1 {
     font-size: normal;
     
 }
+
+
 
 header img {
     display: block;
@@ -81,7 +84,7 @@ nav a:hover {
 }
 
 main img {
-    width: 99%;
+    width: 100%;
     margin-bottom: 400px;
     
 }
@@ -113,6 +116,7 @@ main a {
     margin-bottom: 30px;
     padding: 10px;
     box-shadow: 2px 2px 11px 0px rgb(0 0 0 / 56%);
+    width: 100%;
 }
 
 main a:hover {
